@@ -30,9 +30,9 @@ En el ámbito personal, me encanta pasar tiempo con mi familia 👨‍👩‍�
  <li>Software y herramientas: Git , GitHub , vs code , figma , google</li>
 </ul>
 
-<h2>Contactemosnos 🤝</h2>
-<a src="https://api.whatsapp.com/send?phone=+542995954317&text=<span>Hola ! me gustaria contactarte para .....</span>">whatsapp
-</a>
+<h2>Contacto 🤝</h2>
+[<a src="https://api.whatsapp.com/send?phone=+542995954317&text=<span>Hola ! me gustaria contactarte para .....</span>">whatsapp
+</a>](url)
 
 
 
