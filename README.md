@@ -6,10 +6,10 @@ En el ámbito personal, me encanta pasar tiempo con mi familia 👨‍👩‍�
 
 <ul>
 	<li>
-		🔭 Actualmente estoy buscando oportunidades laborales
+		 Actualmente estoy buscando oportunidades laborales
 	</li>
 	<li>
-      		📫 Cómo contactarme gabriela8522@gmail.com 
+      		 Cómo contactarme gabriela8522@gmail.com 
 	</li>
 	<li>
 		proyecto figma : https://www.figma.com/proto/x08vagU3fA52r9UVdL2KUW/proyectoDise%C3%B1oGrafico?node-id=0-1&t=5fdu0MBFiX0Pyl4y-1
