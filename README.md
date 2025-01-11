@@ -73,7 +73,6 @@ En el ámbito personal, me encanta pasar tiempo con mi familia 👨‍👩‍�
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriela-contreras-837193278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katherine j contreras s" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gabyy_ferx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katherine_jcs" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=+542995954317&text=<span>Hola ! me gustaria contactarte para .....</span>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="katherine-j-c-s" height="30" width="40" /></a>
 </p>
 
 
