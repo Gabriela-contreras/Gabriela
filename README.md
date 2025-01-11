@@ -19,11 +19,7 @@ En el ámbito personal, me encanta pasar tiempo con mi familia 👨‍👩‍�
 <h2>Habilidades 🎓</h2>
 
 <ul>
-	<li>
-		Idiomas: JAVASCRIPT  , PHP
-
-		
-	</li>
+	<li>Idiomas: JAVASCRIPT  , PHP</li>
  <li>Desarrollo back-end : Mysql ,sql </li>
  <li>
 	 Desarrollo Front-End : CSS, HTML ,REACT , TAILWIND CSS
