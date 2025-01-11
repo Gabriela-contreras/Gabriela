@@ -27,23 +27,19 @@ En el ámbito personal, me encanta pasar tiempo con mi familia 👨‍👩‍�
 - **Languages**
 
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
   <br>
   
 - **Back-End Development**
 
-   ![express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
    ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
    ![mysql](https://img.shields.io/badge/mysql-38B2AC?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-   ![sequelize](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)&nbsp;
 
   <br>  
   
 - **Front-End Development**
 
    ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-   ![redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
    ![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
    ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
@@ -53,10 +49,6 @@ En el ámbito personal, me encanta pasar tiempo con mi familia 👨‍👩‍�
 - **Cloud Hosting**
   
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-  ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C39BD?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
-  ![Railway](https://img.shields.io/badge/railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)&nbsp;
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)&nbsp;
-  ![netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
   
   <br>
   
@@ -64,10 +56,8 @@ En el ámbito personal, me encanta pasar tiempo con mi familia 👨‍👩‍�
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-  ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-  ![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
 
 </p>
@@ -75,7 +65,7 @@ En el ámbito personal, me encanta pasar tiempo con mi familia 👨‍👩‍�
 <br>
 <br>
 
-## <b> **Let's Connect..!**</b><img src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width ="40">
+## <b> **Contact me !**</b><img src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width ="40">
 
 <br>
 
