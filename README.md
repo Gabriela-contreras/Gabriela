@@ -26,7 +26,7 @@ En el ámbito personal, me encanta pasar tiempo con mi familia 👨‍👩‍�
 
 - **Languages**
 
-  ![JavaScript](file:///C:/Users/gcont/Downloads/javascript-svgrepo-com.svg)&nbsp;
+  ![JavaScript](file:///C:/Users/gcont/Downloads/javascript-svgrepo-com.svg);
 
   <br>
   
