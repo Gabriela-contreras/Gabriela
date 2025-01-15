@@ -10,8 +10,7 @@ On a personal level, I love spending time with my family 👨‍👩‍👧‍�
 	</li>
 	<li>
       		
-		How to contact me 
-		mail: gabriela8522@gmail.com
+		How to contact me mail: gabriela8522@gmail.com
   
 	</li>
 	<li>
