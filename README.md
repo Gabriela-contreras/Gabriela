@@ -1,18 +1,22 @@
-<h1>Hola👋! soy Gabriela </h1>
+<h1>Hello👋! I'm Gabriela</h1>
 
-Soy una entusiasta autodidacta y estudiante de segundo año de Desarrollo Web en la Universidad del Comahue🎓, Neuquén. 🚀 Siempre estoy buscando nuevas oportunidades para aprender , desempeñar mis habilidades y conocimientos. Actualmente, estoy buscando oportunidades laborales como programador en empresas o startups.
-Hasta ahora, he completado dos proyectos front-end y estoy ansioso por expandir mis habilidades mientras contribuyo a proyectos innovadores.  Me adapto a cualquier situación y disfruto colaborar con otros para lograr el éxito. 
-En el ámbito personal, me encanta pasar tiempo con mi familia 👨‍👩‍👧‍👧, hacer ejercicio 💪 y bailar💃
+I am an enthusiastic self-taught second-year Web Development student at Universidad del Comahue🎓, Neuquén. 🚀 I am always looking for new opportunities to learn, perform my skills and knowledge. Currently, I am looking for job opportunities as a programmer in companies or startups.
+So far, I have completed two front-end projects and I am eager to expand my skills while contributing to innovative projects. I adapt to any situation and enjoy collaborating with others to achieve success. 
+On a personal level, I love spending time with my family 👨‍👩‍👧‍👧, exercising 💪 and dancing💃
 
 <ul>
 	<li>
-		 Actualmente estoy buscando oportunidades laborales
+		I am currently looking for job opportunities
 	</li>
 	<li>
-      		 Cómo contactarme gabriela8522@gmail.com 
+      		
+		How to contact me 
+		mail: gabriela8522@gmail.com
+  
 	</li>
 	<li>
-		proyecto figma : https://www.figma.com/proto/x08vagU3fA52r9UVdL2KUW/proyectoDise%C3%B1oGrafico?node-id=0-1&t=5fdu0MBFiX0Pyl4y-1
+		
+		figma project : https://www.figma.com/proto/x08vagU3fA52r9UVdL2KUW/proyectoDise%C3%B1oGrafico?node-id=0-1&t=5fdu0MBFiX0Pyl4y-1
 	</li>
 </ul>
 
