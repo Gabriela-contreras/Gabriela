@@ -18,7 +18,7 @@ On a personal level, I love spending time with my family 👨‍👩‍👧‍�
 
 <br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b>
+##<b>Skills</b>
 
 <br>
 
@@ -26,7 +26,8 @@ On a personal level, I love spending time with my family 👨‍👩‍👧‍�
 
 - **Languages**
 
-  ![JavaScript](file:///C:/Users/gcont/Downloads/javascript-svgrepo-com.svg);
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+  ![Php](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.php.net%2Fdownload-logos.php&psig=AOvVaw2-PgTxtevWZ8tA0Ax5BlJP&ust=1737047435269000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiKl42c-IoDFQAAAAAdAAAAABAE)
 
   <br>
   
