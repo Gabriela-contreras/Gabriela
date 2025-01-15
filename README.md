@@ -26,7 +26,7 @@ En el ámbito personal, me encanta pasar tiempo con mi familia 👨‍👩‍�
 
 - **Languages**
 
-  ![JavaScript](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-javascript-scalable-vector-graphics-logo-encapsula-6249368%2F&psig=AOvVaw2sG3-EVBtBRBhFerbdOBAf&ust=1737045235918000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjpovST-IoDFQAAAAAdAAAAABAE)&nbsp;
+  ![JavaScript](file:///C:/Users/gcont/Downloads/javascript-svgrepo-com.svg)&nbsp;
 
   <br>
   
