@@ -27,8 +27,8 @@ On a personal level, I love spending time with my family 👨‍👩‍👧‍�
 - **Languages**
 
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-  ![Php](https://www.php.net/images/logos/new-php-logo.svg)
-  <img src="https://www.php.net/images/logos/new-php-logo.svg">
+  ![Php](https://www.php.net/images/logos/new-php-logo.svg)&nbsp;
+
 
   <br>
   
