@@ -65,7 +65,7 @@ On a personal level, I love spending time with my family 👨‍👩‍👧‍�
 <br>
 <br>
 
-## <b> **Contact me !**</b><img src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width ="40">
+## <b> **Contact me !**</b>
 
 <br>
 
