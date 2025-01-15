@@ -9,12 +9,9 @@ On a personal level, I love spending time with my family 👨‍👩‍👧‍�
 		I am currently looking for job opportunities
 	</li>
 	<li>
-      		
 		How to contact me mail: gabriela8522@gmail.com
-  
 	</li>
 	<li>
-		
 		figma project : https://www.figma.com/proto/x08vagU3fA52r9UVdL2KUW/proyectoDise%C3%B1oGrafico?node-id=0-1&t=5fdu0MBFiX0Pyl4y-1
 	</li>
 </ul>
